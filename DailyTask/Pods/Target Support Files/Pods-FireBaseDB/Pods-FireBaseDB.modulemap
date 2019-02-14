@@ -1,0 +1,6 @@
+framework module Pods_FireBaseDB {
+  umbrella header "Pods-FireBaseDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
